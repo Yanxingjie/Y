@@ -14,6 +14,7 @@
             margin-right: 60px;
             margin-top: 40px;
         }
+        //这样行不行
         .books .info
         {
             float: left;
